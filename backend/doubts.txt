@@ -1,0 +1,4 @@
+what does npm init -y even does
+use of env and cors
+what is config as in dotenv.config
+what is cors
